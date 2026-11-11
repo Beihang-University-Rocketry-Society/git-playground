@@ -1,6 +1,1 @@
-#include<stdio.h>
-int main()
-{
-    printf("guanyu");
-    return 0;
-}
+这次做了
