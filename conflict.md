@@ -1,3 +1,6 @@
-# 冲突示例文件
-
-test test test test test test test test test test test test test test
+#include<stdio.h>
+int main()
+{
+    printf("guanyu");
+    return 0;
+}
