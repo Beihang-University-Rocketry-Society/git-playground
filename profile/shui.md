@@ -1,0 +1,2 @@
+import numpy
+printf"helloworld"
