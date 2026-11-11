@@ -1,5 +1,5 @@
 # 自我介绍
 
-- Github: [qwqAutomaton](https://github.com/qwqAutomaton)
-- Lang: C, C++, Python, etc.
-- xxxxx
+- Github: [lajiaoshui216-spec](https://github.com/qwqAutomaton)
+- Lang: C, C++, etc.
+- Like sleeping
